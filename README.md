@@ -1,2 +1,2 @@
-# Techonology-zero-
+# Technology-zero
 Tech idiot to see what I can learn from here.
